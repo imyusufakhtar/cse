@@ -1,0 +1,366 @@
+/* * {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+} */
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&family=Ubuntu:wght@400;500;700&display=swap');
+
+html{
+    scroll-behavior: smooth;
+}
+
+/* custom scroll bar */
+::-webkit-scrollbar {
+    width: 6px;
+}
+::-webkit-scrollbar-track {
+    background: #f1f1f1;
+}
+::-webkit-scrollbar-thumb {
+    background: #10121b;
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background: #555;
+}
+
+body {
+  /* -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale; */
+  background: #10121b;
+  color: hwb(240 96% 3%);
+  font-family: 'Nunito', sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 1.8rem;
+  /* overflow: hidden !important; */
+  margin: 0;
+}
+.Main{
+  width: 100%;
+  display: flex;
+}
+
+/* CSS FOR HEADER */
+.header {
+  align-items: center;
+  background: #191d2b;
+  border-right: 1px solid #2e344e;
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  justify-content: space-between;
+  left: 0;
+  overflow: hidden;
+  overflow-y: auto;
+  position: fixed;
+  top: 0;
+  -webkit-transform: translateX(0);
+  transform: translateX(0);
+  transition: all .4s ease-out;
+  width: 300px;
+  z-index: 10;
+}
+.header-img {
+  border-bottom: 1px solid #2e344e;
+  display: block;
+  padding: 20px 0 10px 0; /* Reduced bottom padding */
+  text-align: center;
+  width: 100%;
+}
+.header-img img {
+  height:auto;
+  width: 100%;
+}
+.header-img a {
+  border: 7px solid #2e344e;
+  border-radius: 50%;
+  display: inline-block;
+  height: 200px;
+  overflow: hidden;
+  vertical-align: middle;
+  width: 200px;
+}
+.header-menu {
+  margin: 0;
+  padding: 10px 5px;
+  width: 100%;
+}
+.header-menu li {
+  display: block;
+  list-style: none;
+  text-align: center;
+}
+.header-menu li a {
+  /* color: #a4acc4; */
+  color: white;
+  display: block;
+  font-size: .94rem;
+  font-weight: 600;
+  letter-spacing: 1px;
+  overflow: hidden;
+  padding: 5px 0;
+  position: relative;
+  text-transform: uppercase;
+  transition: all .4s ease-out;
+  z-index: 1;
+  text-decoration: none;
+}
+/* .header-menu li a:hover {
+  color: #2e344e !important;
+  background-color:white;
+} */
+.active {
+  color: #2e344e !important;
+  background-color:white;
+}
+.header-extra {
+  border-top: 1px solid #2e344e;
+    display: block;
+    font-size: 1rem;
+    margin-bottom: 0;
+    padding: 15px 0;
+    text-align: center;
+    width: 100%;
+}
+.header-extra .copyright {
+  font-size: .8rem;
+  margin-top: 20px;
+  color: #818181;
+}
+/* Main */
+.main-content {
+  margin-left: 310px;
+  padding: 20px;
+  background: url('React_JS_Developers.jpg');
+  background-size: cover;
+  background-attachment: fixed;
+  width: 100%;
+  height: 100vh;
+  padding-top: 200px;
+  padding-left: 100px;
+  font-family: 'Ubuntu', sans-serif;
+  transition: all 0.3s ease;
+}
+.main-content .text-1{
+  font-size: 27px;
+}
+
+.main-content .text-2{
+  font-size: 75px;
+  font-weight: 700;
+  margin-left: -3px;  
+}
+.main-content .text-3 {
+  font-size: 40px;
+  margin: 5px 0;
+}
+.gray{
+  color: gray;
+}
+
+/* Contact */
+.aboutPad{
+  margin:50px;
+}
+.contact-main{
+  margin:30px;
+}
+.contact{
+border-radius:5px;
+background-color:#191d2b;
+padding:20px;
+}
+
+/* Form  */
+
+.form-control.custom-input,
+.form-control.custom-textarea {
+  background-color: transparent;
+  border: 1px solid white;
+  color: white;
+  padding: 10px;
+}
+
+.form-control.custom-input::placeholder,
+.form-control.custom-textarea::placeholder {
+  color: white;
+}
+
+.custom-submit {
+  background-color: transparent;
+  border: 1px solid white;
+  color: white;
+}
+
+.custom-submit:hover {
+  background-color: white;
+  color: black;
+}
+
+.form-label {
+  color: white;
+}
+
+
+.text4{
+  text-decoration: underline;
+  color: white;
+  padding: 10px 0;
+  width: 100%;
+  font-family: 'Ubuntu', sans-serif;
+}
+.text5{
+  color: white;
+  font-size: 20px;
+  font-family: 'Ubuntu', sans-serif;
+}
+
+.family{
+  font-family: 'Ubuntu', sans-serif;
+}
+
+.padTop{
+  padding-top: 20px !important ;
+  padding-bottom: 20px;
+}
+
+
+/* ...............Testing.............. */
+
+.content {
+  margin-left: 300px;
+  padding: 20px;
+  transition: margin-left .4s ease-out;
+}
+
+.content img{
+  /* height: 100%; */
+  width: 100%;
+  border-radius: 5px;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+.content .text{
+  font-size: 25px;
+  font-weight: 600;
+  margin-bottom: 10px;
+  font-family: 'Ubuntu', sans-serif;
+  transition: all 0.3s ease;
+}
+.content .text1{
+  font-size: 20px;
+  font-weight: 500;
+  margin-bottom: 10px;
+  font-family: 'Ubuntu', sans-serif;
+  transition: all 0.3s ease;
+  
+}
+
+.content .text2{
+  /* font-size: 16px; */
+  font-weight: 500;
+  text-decoration: underline;
+  padding: 3px;
+  border-radius: 3px;
+  font-family: 'Ubuntu', sans-serif;
+  transition: all 0.3s ease;
+}
+.content .text3{
+  font-weight: 500;
+  padding: 3px;
+  border-radius: 3px;
+  font-family: 'Ubuntu', sans-serif;
+  transition: all 0.3s ease; 
+  background: white;
+  color: #191d2b;
+}
+
+/* Toggle Button Styles */
+.toggle-btn {
+  position: fixed;
+  top: 10px;
+  left: 10px;
+  background: #2e344e;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  padding: 10px 15px;
+  cursor: pointer;
+  z-index: 11;
+  display: none;
+}
+
+.toggle-btn:hover {
+  background: #1c1f2a;
+}
+
+.customBut{
+  background-color:#2e344e !important;
+  border: 2px solid #1c1f2a !important;
+  margin: 0.5px;
+}
+.customBut:hover{
+  background-color: #1c1f2a !important;
+  border: none;
+}
+
+/* Responsive Styles */
+@media (max-width: 870px) {
+  .header {
+    transform: translateX(-100%);
+  }
+
+  .header.open {
+    transform: translateX(0);
+  }
+
+
+  .main-content {
+    margin-left: -50px;
+    margin-top: 20px;
+  }
+  .mobile{
+    padding-top: 250px !important;
+  }
+
+  .content {
+    margin-left: 10px;
+    margin-top: 50px
+  }
+  
+
+.content img{
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border-radius:15px ;
+}
+
+  #colImg{
+    background-color:#191d2b;
+    border-radius:5px;
+    margin-bottom: 20px;
+  }
+
+  .toggle-btn {
+    display: block;
+  }
+
+  .contact-main{
+    margin:10px -15px 10px -20px;
+  }
+  .text{
+    font-size: 20px !important;
+    text-transform: uppercase;
+  }
+  .main-content .text-2{
+    font-size: 45px; 
+  }
+  .main-content .text-3 {
+    font-size: 25px;
+  }
+}
+

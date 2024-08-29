@@ -1,0 +1,35 @@
+{
+    "name": "Md Yusuf",
+    "role": "Software Developer",
+    "highlights": [
+      "👋 Hello! I'm Md Yusuf, a proactive Software Developer specializing in creating advanced web applications. I excel in ReactJS, where I spearheaded initiatives that significantly boosted user engagement by 30% and optimized backend operations to enhance data retrieval efficiency by 40%. My expertise spans HTML, CSS, Bootstrap, React, Redux, and advanced JavaScript (ES6+), complemented by proficiency in TypeScript and modern front-end tools like Webpack.",
+      "Throughout my career, I've orchestrated agile planning sessions that translated product requirements into actionable tasks, ensuring the prompt delivery of multiple high-impact projects. I elevated code quality through rigorous unit testing using Jest and Enzyme, resulting in a 30% increase in reliability, while implementing Git for seamless version control, reducing conflicts by 40%.",
+      "Beyond my core responsibilities, I've successfully executed diverse projects, including developing a Myntra clone e-commerce platform recognized for its 95% data accuracy and substantial improvements in page load times. Additionally, I've contributed to enterprise-level ERP systems, implementing sophisticated features such as real-time data visualization and role-based access control using Redux middleware.",
+      "Armed with a Bachelor's degree in Computer Science from Chandigarh University, I've cultivated a deep understanding of software development principles, algorithms, and database management. My academic background and hands-on experience have equipped me with a robust foundation in web development, honed through internships where I enhanced my collaborative coding skills.",
+      "I'm passionate about leveraging technology to optimize performance, enhance user experiences, and deliver scalable solutions. Let's connect to explore how my proactive approach and extensive experience can drive innovation and achieve your business objectives."
+    ],
+    "technicalSkills": {
+      "programmingLanguages": ["Java", "JavaScript", "Python", "TypeScript", "C++"],
+      "frontendDevelopment": ["ReactJS", "JavaScript", "HTML", "CSS", "SCSS", "Bootstrap"],
+      "backendDevelopment": ["Python Flask", "RESTful APIs"],
+      "tools": ["Git", "IDEs", "SQL", "Webpack"],
+      "otherSkills": ["Linux/Windows", "Data Analysis", "Troubleshooting", "Project Management"]
+    },
+    "certifications": [
+      "Coursera Certificate in Java Programming: Solving Problems with Software",
+      "Foundations: Data, Data Everywhere",
+      "NPTEL Certificate in DBMS"
+    ],
+    "accomplishments": [
+      "50% Scholarship from Chandigarh University.",
+      "Secured 3 star coder status on Leetcode.",
+      "Secured 5 star coder status on Hacker Rank."
+    ],
+    "additionalExperiences": [
+      "Won Prize in CU Tech fest at Chandigarh University.",
+      "Participated in Swachh Bharat Abhiyan.",
+      "Organized AntiDrug Campaign at Chandigarh University as a Coordinator in 2019.",
+      "Worked as a Backend Coordinator for AIU and CU Fest organized at Chandigarh University in 2018."
+    ]
+  }
+  

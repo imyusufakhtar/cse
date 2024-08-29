@@ -1,0 +1,115 @@
+[
+    {
+        "id": 1,
+        "name": "Myntra Clone E-Commerce",
+        "desc": [
+            "Conceptualized and developed a robust e-commerce platform using React, Redux, Bootstrap, and CSS, achieving a 95% data accuracy and slashing page load times by 50%.",
+            "Executed a responsive design strategy with Material-UI and Bootstrap, driving a 40% increase in user engagement.",
+            "Spearheaded the creation of 100+ tests with Jest and Cypress, providing 99% coverage and optimizing deployment via Netlify CI/CD, reducing deployment time by 30%.",
+            "Implemented client-side form validation with Yup, enhancing user input validation and error handling.",
+            "Integrated Google Analytics for tracking user behavior and improving site performance based on analytics data.",
+            "Optimized SEO with meta tags and structured data, increasing organic traffic by 25%."
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Facebook Clone Web Application",
+        "desc": [
+            "Designed and built a social media web page similar to Facebook using React, ensuring a seamless user experience across desktops, tablets, and mobile devices. Elevated user engagement by 40% through an intuitive and responsive design.",
+            "Implemented JWT for user login and registration, effectively managing over 1,000 user sessions and safeguarding user data.",
+            "Architected a real-time news feed that dynamically displays user posts, utilizing React hooks and Redux for state management. Accelerated post creation and viewing speed by 50%, ensuring instant updates.",
+            "Crafted comprehensive user profile pages showcasing user information and posts, and implemented a system for sending and accepting friend requests, amplifying user interactions by 35%.",
+            "Implemented a real-time messaging feature, allowing users to communicate instantly. Boosted user retention by 25% through enhanced communication features.",
+            "Implemented a notification system to alert users of new interactions such as likes, comments, and friend requests, using Redux to manage the state and ensuring timely updates. Improved user response time to notifications by 30%."
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Weather App",
+        "desc": [
+            "Engineered a weather application using React and OpenWeatherMap API, maintaining a 99% uptime and delivering real-time weather updates for any location.",
+            "Designed a responsive interface using CSS and Bootstrap, ensuring a seamless experience across various devices, which boosted user engagement by 25%.",
+            "Integrated robust error handling for API requests, cutting user-reported errors by 40% and enhancing the user experience with meaningful feedback.",
+            "Deployed geolocation API for automatic detection of user location, elevating user convenience and interaction by 30%.",
+            "Amplified accessibility with keyboard navigation and screen reader support, ensuring inclusivity for all users and increasing usability for users with disabilities by 20%.",
+            "Implemented progressive web app (PWA) features, enabling offline access and slashing load times by 50%, leading to a 15% increase in user retention."
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Enterprise Resource Planning (ERP) System",
+        "desc": [
+            "Pioneered the development and maintenance of a scalable ERP system using ReactJS, enhancing functionality for over 500 enterprise clients.",
+            "Architected and implemented 10+ modules for inventory management and order processing, integrating RESTful APIs, and elevating process efficiency by 30%.",
+            "Collaborated seamlessly with cross-functional teams to ensure smooth integration and system reliability, impacting over 500 clients.",
+            "Implemented role-based access control (RBAC) using Redux middleware, ensuring secure data access and management.",
+            "Developed real-time data visualization with Chart.js, enabling clients to make informed decisions based on dynamic data.",
+            "Implemented offline data synchronization using Service Workers, allowing uninterrupted access to critical data."
+        ]
+    },
+    {
+        "id": 5,
+        "name": "Portfolio Website",
+        "desc": [
+            "Created a personal portfolio website using React, showcasing projects and skills to potential employers.",
+            "Utilized CSS Grid and Flexbox for a modern and responsive design, improving visual appeal and usability.",
+            "Implemented form validation and submission handling with React Hook Form, enhancing user interaction with the contact form.",
+            "Integrated a blog section using Markdown files and React Markdown for easy content updates.",
+            "Utilized localStorage for storing user preferences and dark mode theme support.",
+            "Implemented dynamic content loading with lazy loading and code splitting for improved performance."
+        ]
+    },
+    {
+        "id": 6,
+        "name": "Task Manager",
+        "desc": [
+            "Built a task management application using React and Redux, enabling users to create, edit, and delete tasks.",
+            "Implemented drag-and-drop functionality with react-beautiful-dnd, allowing users to easily reorder tasks.",
+            "Developed unit tests using Jest to ensure reliability and robustness of the application.",
+            "Implemented WebSocket integration for real-time task updates and collaboration.",
+            "Optimized task filtering and sorting algorithms for efficient task management.",
+            "Integrated notifications using Web Push API for task reminders and updates."
+        ]
+    },
+    {
+        "id": 7,
+        "name": "Youtube Clone",
+        "desc": [
+            "Developed and deployed a full-stack YouTube clone using React, Redux, Firebase, and the YouTube Data API.",
+            "Managed user authentication, real-time database management, and storage for seamless user interactions.",
+            "Implemented dynamic video metadata fetching and search functionality, efficiently handling daily API calls.",
+            "Engineered a responsive UI and managed application state, optimizing performance and achieving a 30% reduction in page load time.",
+            "Implemented video playback, search, user interactions (likes, comments), and responsive design using CSS.",
+            "Deployed on Firebase Hosting, rigorously tested across browsers and devices, ensuring a bug-free user experience and receiving positive feedback."
+        ]
+    },
+    {
+        "id": 8,
+        "name": "Gym Management System",
+        "desc": [
+            "Engineered a user-friendly dashboard using React, driving a 30% increase in user engagement through intuitive design and seamless navigation.",
+            "Engineered booking and scheduling features using JavaScript and RESTful APIs, slashing booking processing time by 40%.",
+            "Streamlined system performance by refining CSS and JavaScript code, resulting in a 50% reduction in page load times and scaling capacity to handle a 20% surge in concurrent users.",
+            "Deployed secure authentication mechanisms using React and fortified data security protocols, ensuring adherence to industry standards and achieving a flawless security record over 6 months.",
+            "Actively spearheaded agile sprint planning and daily stand-ups, driving the on-time delivery of 10+ features and enhancements, consistently surpassing project milestones."
+        ]
+    },
+    {
+        "id": 9,
+        "name": "Tic Tac Toe Game",
+        "desc": [
+            "Developed a responsive tic-tac-toe game using HTML, CSS, and JavaScript, showcasing proficiency in front-end web development.",
+            "Implemented game logic and user interface features, including player turn management, win detection, and game reset functionality.",
+            "Designed and styled the game interface to ensure a polished user experience, leveraging CSS grid for layout and interactive elements.",
+            "Demonstrated problem-solving skills by resolving logic bugs and optimizing game performance, enhancing overall gameplay and user engagement."
+        ]
+    },
+    {
+        "id": 10,
+        "name": "Online Bookstore Web Application",
+        "desc": [
+            "Built a full-stack web application using Python Flask for the backend and HTML, CSS, and JavaScript for the frontend, supporting 1,000+ users.",
+            "Integrated a PostgreSQL database and designed RESTful APIs for CRUD operations, deploying the application on the Heroku cloud platform with 99.9% uptime."
+        ]
+    }
+]

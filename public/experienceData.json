@@ -1,0 +1,15 @@
+[
+    
+    {
+        "company": "Internshala",
+        "jobProfile": "Web Development",
+        "location": "Gurugram, India (Remote)",
+        "duration": "May 2020 - June 2020",
+        "highlights": [
+            "Crafted responsive and interactive web applications using HTML, CSS, JavaScript, and popular libraries like React.",
+            "Seamlessly integrated RESTful APIs to enhance the functionality and interactivity of web applications.",
+            "Coordinated with team members using version control systems like Git to manage and collaborate on codebases effectively.",
+            "Enhanced web applications for maximum speed and scalability, implementing best practices for efficient and maintainable code."
+        ]
+    }
+]

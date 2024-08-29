@@ -1,0 +1,67 @@
+[
+    {
+        "institution": "Chandigarh University",
+        "degree": "Bachelor of Engineering",
+        "major": "Computer Science",
+        "location": "Mohali, India",
+        "duration": "July 2018 - July 2022",
+        "highlights": [
+            "Executed a comprehensive program with a focus on software development, algorithms, and data structures.",
+            "Acquired hands-on experience in various programming languages and technologies, including Java, Javascript, Python, and C++.",
+            "Built a strong foundation in web development, databases, and software engineering principles.",
+            "Delivered multiple projects, both individually and as part of a team, showcasing skills in problem-solving, critical thinking, and collaboration.",
+            "Engaged in internships and extracurricular activities, enhancing both technical and soft skills."
+        ],
+        "coursework": [
+            "Programming",
+            "Data Structures and Algorithms",
+            "Object Oriented Programming",
+            "Operating Systems",
+            "Computer Networks",
+            "Low Level Design",
+            "Databases"
+        ]
+    },
+    {
+        "institution": "R.B.G.R College",
+        "degree": "10+2 in Science",
+        "major": "PCM",
+        "location": "Maharajganj, Siwan, Bihar",
+        "duration": "2015 - 2017",
+        "highlights": [
+            "Completed a curriculum focused on Physics, Chemistry, and Mathematics.",
+            "Cultivated strong analytical and problem-solving skills through comprehensive coursework and practical experiments.",
+            "Mastered scientific principles and mathematical concepts.",
+            "Participated actively in science fairs and extracurricular activities, enhancing both academic and interpersonal skills."
+        ],
+        "coursework": [
+            "Physics",
+            "Chemistry",
+            "Mathematics",
+            "English",
+            "Hindi",
+            "Urdu"
+        ]
+    },
+    {
+        "institution": "S.V H/S Chakia Chaturvedi",
+        "degree": "10th",
+        "major": "General",
+        "location": "Siwan, Bihar",
+        "duration": "2014 - 2015",
+        "highlights": [
+            "Completed secondary education, focusing on Science, Mathematics, Social Science, English, Hindi, and Urdu.",
+            "Demonstrated proficiency in core subjects through rigorous examinations.",
+            "Developed foundational knowledge in various disciplines crucial for academic growth.",
+            "Actively engaged in extracurricular activities, enhancing both academic and interpersonal skills."
+        ],
+        "coursework": [
+            "Science",
+            "Mathematics",
+            "Social Science",
+            "English",
+            "Hindi",
+            "Urdu"
+        ]
+    }
+]
